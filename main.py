@@ -1,4 +1,4 @@
-#Grupo: Rafael Vargas Serenato e Lucas Braga Schuck
+#Grupo: Rafael Vargas Serenato
 
 """                                                        Dados da atividade 
                                                                  V
